@@ -1,3 +1,13 @@
+# Certifications
+---
+1. Oracle Certified Professional, Java SE 6 Programmer (OCJP) – Feb 2013
+2. Oracle Certified Professional, Java EE 5 Web Component Developer (OCWCD) - Aug 2013
+3. Oracle Database 11g: SQL Fundamentals I - Nov 2014
+4. AWS Certified Solution Architect – Aug 2019
+5. Certified Kubernetes Application Developer – Sept 2021
+
+
+
 # Data Science Portfolio
 ---
 ## Machine learning
@@ -8,14 +18,21 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pavankale2709/fraud_detection)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="assets/img/fraud_detection.jpg"/></center>
 
 # Java Portfolio
 ---
-## BMC SOftware
+## BMC Software
+
+Working in BMC Software from last Feb 2015 on projects involving following tools/softwares:
+Tools/Softwares/Technologies: Java, Spring, Kuberneter, Oracle/Postgres, EFK stack, Elasticsearch, Prometheus, Kafka, Redis, Kibana etc
+Integration with Cloud: AWS, Azure, GCP, PCF, IBM etc
+Integration with Onprem-Cloud: VMWare, vCloud, Openstack, Nutanix etc
 
 ### Business Workflow
 BMC Helix Business Workflows is a modern case management solution built for Service Delivery Owners, including HR, Facilities, and other groups—in a scalable, managed, and automated way.
+
+<center><img src="assets/img/Business Workflow.JPG"/></center>
 
 ### Capacity Optimization
 TrueSight Capacity Optimization aligns IT resources with business service demands, optimizing resource usage and reducing costs. It help to Plan, manage, and optimize on premises and cloud resources.
@@ -25,3 +42,21 @@ TrueSight Capacity Optimization aligns IT resources with business service demand
 * Optimize the use of cloud and on-premises IT resources
 * Simulate migrating workloads to the cloud
 * Reserve and schedule IT infrastructure resources for releasing new applications
+
+<center><img src="assets/img/Capacity_Optimization.JPG"/></center>
+
+
+
+---
+## TCS 
+
+Worked in TCS from Sep 2010 to Feb 2015
+Worked of Java, Struts, MySQL projects
+
+### Worked on projects
+
+* Timesheet for Barclays
+* Pingit, BMB for Barclays
+* HPDiscover For HP
+* POC for low end mobile phones for IDBI Federal Life Insurance Company
+* Worked on POC’s like NFC banking, TCS Secure transport system, mServices, iMedizen etc

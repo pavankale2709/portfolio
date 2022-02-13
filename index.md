@@ -5,7 +5,7 @@
 3. Oracle Database 11g: SQL Fundamentals I - Nov 2014
 4. AWS Certified Solution Architect – Aug 2019
 5. Certified Kubernetes Application Developer – Sept 2021
-
+---
 
 
 # Data Science Portfolio
@@ -20,6 +20,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 <center><img src="assets/img/fraud_detection.jpg"/></center>
 
+---
 
 
 # Java Portfolio

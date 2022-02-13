@@ -20,6 +20,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 <center><img src="assets/img/fraud_detection.jpg"/></center>
 
+--
 # Java Portfolio
 ---
 ## BMC Software
@@ -33,7 +34,7 @@ Integration with Onprem-Cloud: VMWare, vCloud, Openstack, Nutanix etc
 BMC Helix Business Workflows is a modern case management solution built for Service Delivery Owners, including HR, Facilities, and other groups—in a scalable, managed, and automated way.
 
 <center><img src="assets/img/Business Workflow.JPG"/></center>
-
+--
 ### Capacity Optimization
 TrueSight Capacity Optimization aligns IT resources with business service demands, optimizing resource usage and reducing costs. It help to Plan, manage, and optimize on premises and cloud resources.
 #### Features
@@ -44,8 +45,7 @@ TrueSight Capacity Optimization aligns IT resources with business service demand
 * Reserve and schedule IT infrastructure resources for releasing new applications
 
 <center><img src="assets/img/Capacity_Optimization.JPG"/></center>
-
-
+--
 
 ---
 ## TCS 

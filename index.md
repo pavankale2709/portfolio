@@ -6,7 +6,7 @@
 4. AWS Certified Solution Architect – Aug 2019
 5. Certified Kubernetes Application Developer – Sept 2021
 
-
+<br>
 
 # Data Science Portfolio
 ---
@@ -19,7 +19,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pavankale2709/fraud_detection)
 
 <center><img src="assets/img/fraud_detection.jpg"/></center>
-
+<br>
 
 
 
@@ -32,14 +32,14 @@ Tools/Softwares/Technologies: Java, Spring, Kuberneter, Oracle/Postgres, EFK sta
 Integration with Cloud: AWS, Azure, GCP, PCF, IBM etc
 Integration with Onprem-Cloud: VMWare, vCloud, Openstack, Nutanix etc
 
-### Business Workflow
+### Product - Business Workflow
 BMC Helix Business Workflows is a modern case management solution built for Service Delivery Owners, including HR, Facilities, and other groups—in a scalable, managed, and automated way.
 
 <center><img src="assets/img/Business Workflow.JPG"/></center>
+<br>
 
 
-
-### Capacity Optimization
+### Product - Capacity Optimization
 TrueSight Capacity Optimization aligns IT resources with business service demands, optimizing resource usage and reducing costs. It help to Plan, manage, and optimize on premises and cloud resources.
 #### Features
 * Visualize IT resources for a business service
@@ -49,7 +49,7 @@ TrueSight Capacity Optimization aligns IT resources with business service demand
 * Reserve and schedule IT infrastructure resources for releasing new applications
 
 <center><img src="assets/img/Capacity_Optimization.JPG"/></center>
-
+<br>
 
 
 

@@ -5,8 +5,8 @@
 3. Oracle Database 11g: SQL Fundamentals I - Nov 2014
 4. AWS Certified Solution Architect – Aug 2019
 5. Certified Kubernetes Application Developer – Sept 2021
-
 <br>
+
 # Data Science Portfolio
 ---
 ## Machine learning

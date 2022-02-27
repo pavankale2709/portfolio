@@ -31,24 +31,27 @@ Working in BMC Software from Feb 2015 - till date.
 <br>
 <table align="left">
     <tr>
-        <td align="left", style="font-weight:bold">Languages</td>
+        <td align="left">Languages</td>
         <td align="left">Java (Spring, MicroServices, gRPC), Perl, Python</td>
     </tr>
     <tr>
-        <td align="left", style="font-weight:bold">Databases</td>
+        <td align="left">Databases</td>
         <td align="left">Oracle, Postgres, Victoria metrics etc</td>
+    </tr>
+	<tr>
+        <td align="left">Softwares</td>
+        <td align="left">Docker, Kubernetes, EFK stack, Elasticsearch, Prometheus, Kafka, Redis, Kibana, Ansible etc</td>
+    </tr>
+	<tr>
+        <td align="left">Integrations with Cloud</td>
+        <td align="left">AWS, Azure, GCP, PCF, IBM etc</td>
+    </tr>
+	<tr>
+        <td align="left">Integrations with Onprem infra solutions</td>
+        <td align="left">VMWare, vCloud, Openstack, Nutanix, OEM, RHEV etc</td>
     </tr>
 </table>
 <br>
-<h5>Languages: </h5>Java (Spring, MicroServices, gRPC), Perl, Python
-<br>
-<h5>Databases: </h5>Oracle, Postgres, Victoria metrics etc
-<br>
-<h5>Softwares: </h5>Docker, Kubernetes, EFK stack, Elasticsearch, Prometheus, Kafka, Redis, Kibana, Ansible etc
-<br>
-<h5>Integrations with Cloud: </h5>AWS, Azure, GCP, PCF, IBM etc
-<br>
-<h5>Integrations with Onprem-Cloud: </h5>VMWare, vCloud, Openstack, Nutanix, OEM, RHEV etc
 
 ### Product - Business Workflow
 BMC Helix Business Workflows is a modern case management solution built for Service Delivery Owners, including HR, Facilities, and other groups—in a scalable, managed, and automated way.

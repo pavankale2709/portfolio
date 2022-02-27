@@ -31,11 +31,11 @@ Working in BMC Software from Feb 2015 - till date.
 <br>
 <table align="left">
     <tr>
-        <td align="left", font-weight:bold>Languages</td>
+        <td align="left", style="font-weight:bold">Languages</td>
         <td align="left">Java (Spring, MicroServices, gRPC), Perl, Python</td>
     </tr>
     <tr>
-        <td align="left">Databases</td>
+        <td align="left", style="font-weight:bold">Databases</td>
         <td align="left">Oracle, Postgres, Victoria metrics etc</td>
     </tr>
 </table>

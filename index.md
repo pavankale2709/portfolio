@@ -31,28 +31,27 @@ Working in BMC Software from Feb 2015 - till date.
 <br>
 <table align="left">
     <tr>
-        <td align="left">Languages</td>
+        <td align="left"><span style="font-weight:bold">Languages</span></td>
         <td align="left">Java (Spring, MicroServices, gRPC), Perl, Python</td>
     </tr>
     <tr>
-        <td align="left">Databases</td>
+        <td align="left"><span style="font-weight:bold">Databases</span></td>
         <td align="left">Oracle, Postgres, Victoria metrics etc</td>
     </tr>
     <tr>
-        <td align="left">Softwares</td>
+        <td align="left"><span style="font-weight:bold">Softwares</span></td>
         <td align="left">Docker, Kubernetes, EFK stack, Elasticsearch, Prometheus, Kafka, Redis, Kibana, Ansible etc</td>
     </tr>
     <tr>
-        <td align="left">Integrations with Cloud</td>
+        <td align="left"><span style="font-weight:bold">Integrations with Cloud</span></td>
         <td align="left">AWS, Azure, GCP, PCF, IBM etc</td>
     </tr>
     <tr>
-        <td align="left">Integrations with Onprem infra solutions</td>
+        <td align="left"><span style="font-weight:bold">Integrations with Onprem infra solutions</span></td>
         <td align="left">VMWare, vCloud, Openstack, Nutanix, OEM, RHEV etc</td>
     </tr>
 </table>
-<br>
-<br>
+
 
 ### Product - Business Workflow
 BMC Helix Business Workflows is a modern case management solution built for Service Delivery Owners, including HR, Facilities, and other groups—in a scalable, managed, and automated way.

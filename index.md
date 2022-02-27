@@ -37,7 +37,7 @@ Working in BMC Software from Feb 2015 - till date.
 <br>
 <h5>Integrations with Cloud: </h5>AWS, Azure, GCP, PCF, IBM etc
 <br>
-<h5>Integrations with Onprem-Cloud: <h5>VMWare, vCloud, Openstack, Nutanix, OEM, RHEV etc
+<h5>Integrations with Onprem-Cloud: </h5>VMWare, vCloud, Openstack, Nutanix, OEM, RHEV etc
 
 ### Product - Business Workflow
 BMC Helix Business Workflows is a modern case management solution built for Service Delivery Owners, including HR, Facilities, and other groups—in a scalable, managed, and automated way.

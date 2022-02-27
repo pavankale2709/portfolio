@@ -29,6 +29,9 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 ---
 Working in BMC Software from Feb 2015 - till date.
 <br>
+|Languages    | Java (Spring, MicroServices, gRPC), Perl, Python                                            |
+|Softwares    | Docker, Kubernetes, EFK stack, Elasticsearch, Prometheus, Kafka, Redis, Kibana, Ansible etc |
+<br>
 <h5>Languages: </h5>Java (Spring, MicroServices, gRPC), Perl, Python
 <br>
 <h5>Databases: </h5>Oracle, Postgres, Victoria metrics etc

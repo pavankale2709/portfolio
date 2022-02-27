@@ -7,7 +7,6 @@
 5. Certified Kubernetes Application Developer – Sept 2021
 
 <br>
-
 # Data Science Portfolio
 ---
 ## Machine learning

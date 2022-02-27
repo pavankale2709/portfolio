@@ -38,19 +38,20 @@ Working in BMC Software from Feb 2015 - till date.
         <td align="left">Databases</td>
         <td align="left">Oracle, Postgres, Victoria metrics etc</td>
     </tr>
-	<tr>
+    <tr>
         <td align="left">Softwares</td>
         <td align="left">Docker, Kubernetes, EFK stack, Elasticsearch, Prometheus, Kafka, Redis, Kibana, Ansible etc</td>
     </tr>
-	<tr>
+    <tr>
         <td align="left">Integrations with Cloud</td>
         <td align="left">AWS, Azure, GCP, PCF, IBM etc</td>
     </tr>
-	<tr>
+    <tr>
         <td align="left">Integrations with Onprem infra solutions</td>
         <td align="left">VMWare, vCloud, Openstack, Nutanix, OEM, RHEV etc</td>
     </tr>
 </table>
+<br>
 <br>
 
 ### Product - Business Workflow

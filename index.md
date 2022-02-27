@@ -27,10 +27,17 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 ---
 ## BMC Software
 ---
-Working in BMC Software from last Feb 2015 on projects involving following tools/softwares:
-Tools/Softwares/Technologies: Java, Spring, Kuberneter, Oracle/Postgres, EFK stack, Elasticsearch, Prometheus, Kafka, Redis, Kibana etc
-Integration with Cloud: AWS, Azure, GCP, PCF, IBM etc
-Integration with Onprem-Cloud: VMWare, vCloud, Openstack, Nutanix etc
+Working in BMC Software from Feb 2015 - till date.
+<br>
+Languages: Java (Spring, MicroServices, gRPC), Perl, Python
+<br>
+Databases: Oracle, Postgres, Victoria metrics etc
+<br>
+Softwares: Docker, Kubernetes, EFK stack, Elasticsearch, Prometheus, Kafka, Redis, Kibana, Ansible etc
+<br>
+Integrations with Cloud: AWS, Azure, GCP, PCF, IBM etc
+<br>
+Integrations with Onprem-Cloud: VMWare, vCloud, Openstack, Nutanix, OEM, RHEV etc
 
 ### Product - Business Workflow
 BMC Helix Business Workflows is a modern case management solution built for Service Delivery Owners, including HR, Facilities, and other groups—in a scalable, managed, and automated way.

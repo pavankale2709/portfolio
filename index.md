@@ -29,20 +29,15 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 ---
 Working in BMC Software from Feb 2015 - till date.
 <br>
-##### Languages: 
-Java (Spring, MicroServices, gRPC), Perl, Python
+<h5>Languages: </h5>Java (Spring, MicroServices, gRPC), Perl, Python
 <br>
-##### Databases: 
-Oracle, Postgres, Victoria metrics etc
+<h5>Databases: </h5>Oracle, Postgres, Victoria metrics etc
 <br>
-##### Softwares: 
-Docker, Kubernetes, EFK stack, Elasticsearch, Prometheus, Kafka, Redis, Kibana, Ansible etc
+<h5>Softwares: </h5>Docker, Kubernetes, EFK stack, Elasticsearch, Prometheus, Kafka, Redis, Kibana, Ansible etc
 <br>
-##### Integrations with Cloud: 
-AWS, Azure, GCP, PCF, IBM etc
+<h5>Integrations with Cloud: </h5>AWS, Azure, GCP, PCF, IBM etc
 <br>
-##### Integrations with Onprem-Cloud: 
-VMWare, vCloud, Openstack, Nutanix, OEM, RHEV etc
+<h5>Integrations with Onprem-Cloud: <h5>VMWare, vCloud, Openstack, Nutanix, OEM, RHEV etc
 
 ### Product - Business Workflow
 BMC Helix Business Workflows is a modern case management solution built for Service Delivery Owners, including HR, Facilities, and other groups—in a scalable, managed, and automated way.

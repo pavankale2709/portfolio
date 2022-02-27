@@ -31,7 +31,7 @@ Working in BMC Software from Feb 2015 - till date.
 <br>
 <table align="left">
     <tr>
-        <td align="left", font-weight="bold">Languages</td>
+        <td align="left", font-weight:bold>Languages</td>
         <td align="left">Java (Spring, MicroServices, gRPC), Perl, Python</td>
     </tr>
     <tr>

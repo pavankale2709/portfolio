@@ -5,7 +5,7 @@
 3. Oracle Database 11g: SQL Fundamentals I - Nov 2014
 4. AWS Certified Solution Architect – Aug 2019
 5. Certified Kubernetes Application Developer – Sept 2021
----
+
 
 
 # Data Science Portfolio
@@ -20,13 +20,13 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 <center><img src="assets/img/fraud_detection.jpg"/></center>
 
----
+
 
 
 # Java Portfolio
 ---
 ## BMC Software
-
+---
 Working in BMC Software from last Feb 2015 on projects involving following tools/softwares:
 Tools/Softwares/Technologies: Java, Spring, Kuberneter, Oracle/Postgres, EFK stack, Elasticsearch, Prometheus, Kafka, Redis, Kibana etc
 Integration with Cloud: AWS, Azure, GCP, PCF, IBM etc
@@ -52,9 +52,9 @@ TrueSight Capacity Optimization aligns IT resources with business service demand
 
 
 
----
-## TCS 
 
+## TCS 
+---
 Worked in TCS from Sep 2010 to Feb 2015
 Worked of Java, Struts, MySQL projects
 
